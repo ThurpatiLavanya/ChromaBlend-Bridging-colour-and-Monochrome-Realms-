@@ -1,1 +1,1 @@
-# ChromaBlend-Bridging-colour-and-Monochrome-Realms-
+# ChromaBlend-Bridging-colour-and-Monochrome-Realms-Every project is an opportunity to learn,to figure out problems and challanges.I am happy to share this project,which focuses on coverting a coloured image into both black and white and RGB coloured versions.I am greatful to 'Bhavna Vaishnav'mam for her valuable guidance.
